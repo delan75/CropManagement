@@ -1,6 +1,6 @@
 # CropManagement
 
-Java OOP revision project based on Question 7 of an Information Technology paper. The code focuses mainly on Q7.8, where an array class stores `Farm` objects and determines which farm is the most expensive to operate.
+Java OOP revision project based on Question 7 of NSC Information Technology paper 2025. The code focuses mainly on Q7.8, where an array class stores `Farm` objects and determines which farm is the most expensive to operate.
 
 ## What This Project Demonstrates
 
